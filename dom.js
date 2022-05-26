@@ -6,6 +6,7 @@
  
  
  1.1 Usa querySelector para mostrar por consola el botón con la clase .**showme**
+ document.querySelector('input[name=showme]')
  
  1.2 Usa querySelector para mostrar por consola el h1 con el id #pillado
 
@@ -25,6 +26,9 @@
 ƒ forEach() { [native code] }
 
  1.6 Usa querySelector para mostrar por consola el 3 personaje con el atributo 
- data-function="testMe".*/
+ data-function="testMe".
+ 
+ 
+ */
 
  
